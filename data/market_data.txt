@@ -1,0 +1,4 @@
+interestRate 0.02
+dividendYield 0.00
+AAPL 150.0
+volatility_AAPL 0.30
